@@ -6,11 +6,13 @@ Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sem
 #### Aprendizado :brain:
 
 ## Contate-Me
-:email: contato.railandeivid@gmail.com 
-#### <a href="https://www.instagram.com/eae_railan/" target="_blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+<img align="center" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" width="25px" height="25px"> contato.railandeivid@gmail.com  
+
+####
+<a href="https://www.instagram.com/eae_railan/" target="_blank">
+<img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/instagram_logo_icon_170643.png" width="95px" height="60px">
 <a href="https://www.linkedin.com/in/railandeivid/" target="_blank">
- <img align="center" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">  
+ <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" width="95px" height="35px">  
  
  
 ## **Languages, Tools and Libraries:**  

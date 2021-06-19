@@ -19,7 +19,6 @@ Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sem
   
  <p align="left">  
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="Python" width="40" height="40" /> 
-<img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Excel_2013_23480.png" alt="Excel" width="40" height="40" />
 <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40" />
 <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="pandas" width="40" height="40" />
 

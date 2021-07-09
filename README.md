@@ -6,7 +6,14 @@ Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sem
 #### Aprendizado :brain:
 
 ## Contate-Me
-<img align="center" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" width="25px" height="25px"> contato.railandeivid@gmail.com  
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railandeivid/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eae_railan/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contato.railandeivid@gmail.com)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5583996602165&text=Ol%C3%A1!%20Cheguei%20aqui%20pelo%20seu%20GitHub!)
+
+
+
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="60px" height="25px"> contato.railandeivid@gmail.com  
 
 ####
 <a href="https://www.instagram.com/eae_railan/" target="_blank">

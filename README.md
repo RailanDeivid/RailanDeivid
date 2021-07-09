@@ -1,5 +1,4 @@
-# Me chamo Railan Deivid
-:round_pushpin: Moro em São paulo, Brasil
+### :round_pushpin: Moro em São paulo, Brasil
 ### Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sempre a procura de mais conhecimento sobre a área.
 Leitura :books:|
 Música :headphones:|

@@ -26,6 +26,6 @@
 [![](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](#)
 ###
 
-  ![Snake animation](https://github.com/railandeivid/railandeivid/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/railandeivid/railandeivid/blob/output/github-contribution-grid-snake.svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=railandeivid" alt="railandeivid" /> </p>
 

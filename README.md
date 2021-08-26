@@ -3,6 +3,7 @@
 
 ### **Portfólio**
 - [Analisando dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify)
+- [Python Pandas: Técnicas Avançadas](https://github.com/RailanDeivid/Python_Pandas_Tecnicas_avancadas) 
 ## Contate-Me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railandeivid/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eae_railan/)

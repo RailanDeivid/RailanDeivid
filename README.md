@@ -2,10 +2,11 @@
 ### Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sempre a procura de mais conhecimento sobre a área.
 
 ### **Portfólio**
-- [Analisando dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify)
+- [Analisando os Dados de Reclamações do Consumidor Brasileiro](https://github.com/RailanDeivid/EDA_dados_consumidor.git)
+- [Analisando os Dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify) 
 - [Python Pandas: Técnicas Avançadas](https://github.com/RailanDeivid/Python_Pandas_Tecnicas_avancadas) 
 - [Entendendo as funções Map() e Apply()](https://github.com/RailanDeivid/entendendo_as_funcoes_map_e_Apply) 
-- [Selecoes em Data Frames Pandas](https://github.com/RailanDeivid/Selecoes-em-DataFrames-pandas) 
+- [Seleções em Data Frames Pandas](https://github.com/RailanDeivid/Selecoes-em-DataFrames-pandas) 
 ## Contate-Me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railandeivid/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eae_railan/)

@@ -1,4 +1,5 @@
 ### :round_pushpin: São paulo, Brasil
+
 ### Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sempre a procura de mais conhecimento sobre a área.
 
 ### **Portfólio**
@@ -16,10 +17,15 @@
 ## **Languages**  
 <img align="center" alt="Railan-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
+## **🚀 Database**
+![Badge](https://img.shields.io/badge/SQL-%237159c1?style=for-the-badge&logo=SQLite#003B57)
+
 ## **🚀 Libraries and Frameworks**
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](#)
 [![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](#)
+[![](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly#3F4F75&logoColor=white)](#)
+[![](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=Folium&logoColor=white)](#)
 ### **👩‍💻 IDE**
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#)

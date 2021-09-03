@@ -1,4 +1,4 @@
-### :round_pushpin: Moro em São paulo, Brasil
+### :round_pushpin: São paulo, Brasil
 ### Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sempre a procura de mais conhecimento sobre a área.
 
 ### **Portfólio**

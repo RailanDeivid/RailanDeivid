@@ -3,6 +3,7 @@
 ### Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sempre a procura de mais conhecimento sobre a área.
 
 ## **Portfólio Data Science**
+- [Web Scraping dos Salários para Cientista de dados (Glassdoor)](https://github.com/RailanDeivid/Web_Scraping_Beautiful_Soup.git)
 - [Mapa de Roubo de Carros no Estado de SP](https://github.com/RailanDeivid/Map_Roubo_de_Carro_SP.git)
 - [Analisando os Dados de Reclamações do Consumidor Brasileiro](https://github.com/RailanDeivid/EDA_dados_consumidor.git)
 - [Analisando os Dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify)
@@ -36,6 +37,9 @@
 [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](#)
 ###
 
+##
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RailanDeivid&theme=github_dark)](#)
+##
 ![Snake animation](https://github.com/railandeivid/railandeivid/blob/output/github-contribution-grid-snake.svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=railandeivid" alt="railandeivid" /> </p>
 

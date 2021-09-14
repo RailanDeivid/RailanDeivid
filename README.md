@@ -4,6 +4,7 @@
 
 ## **Portfólio Data Science**
 - [Web Scraping dos Salários para Cientista de dados (Glassdoor)](https://github.com/RailanDeivid/Web_Scraping_Beautiful_Soup.git)
+- [Dashboard Alura Pets](https://github.com/RailanDeivid/Dashboard_Alura_pets.git)
 - [Mapa de Roubo de Carros no Estado de SP](https://github.com/RailanDeivid/Map_Roubo_de_Carro_SP.git)
 - [Analisando os Dados de Reclamações do Consumidor Brasileiro](https://github.com/RailanDeivid/EDA_dados_consumidor.git)
 - [Analisando os Dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify)

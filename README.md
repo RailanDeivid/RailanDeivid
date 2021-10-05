@@ -3,6 +3,8 @@
 ### Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sempre a procura de mais conhecimento sobre a área.
 
 ## **Portfólio Data Science**
+
+- [Previsões de série temporal: COVID-19](https://github.com/RailanDeivid/Previsoes_serie_temporal_COVID-19.git)
 - [Mapa de Roubo de Carros no Estado de SP](https://github.com/RailanDeivid/Map_Roubo_de_Carro_SP.git)
 - [Analisando os Dados de Reclamações do Consumidor Brasileiro](https://github.com/RailanDeivid/EDA_dados_consumidor.git)
 - [Analisando os Dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify)

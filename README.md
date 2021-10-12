@@ -29,6 +29,8 @@
 ##
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RailanDeivid&theme=github_dark)](#)
 
+##
+![Snake animation](https://github.com/RailanDeivid/RailanDeivid/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=railandeivid" alt="railandeivid" /> </p>
 

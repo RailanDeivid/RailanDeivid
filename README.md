@@ -4,7 +4,7 @@
 
 ## **Portfólio Data Science**
 
-- [EDA e Dataviz do conjunto de dados Olist](https://github.com/RailanDeivid/EDA_ecommerce_olist_brazil.git)
+- [EDA e Dataviz E-Commerce Brasileiro (Olist)](https://github.com/RailanDeivid/EDA_ecommerce_olist_brazil.git)
 - [Previsões de série temporal: COVID-19](https://github.com/RailanDeivid/Previsoes_serie_temporal_COVID-19.git)
 - [Mapa de Roubo de Carros no Estado de SP](https://github.com/RailanDeivid/Map_Roubo_de_Carro_SP.git)
 - [Analisando os Dados de Reclamações do Consumidor Brasileiro](https://github.com/RailanDeivid/EDA_dados_consumidor.git)

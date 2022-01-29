@@ -12,7 +12,6 @@
 
 ## **Portfólio Dashboards**
 - [Dashboard Spotify](https://github.com/RailanDeivid/Dash_Spotify.git)
-- [Dashboard Alura Pets](https://github.com/RailanDeivid/Dashboard_Alura_pets.git)
 
 ## **Tutoriais**
 - [Python Pandas: Técnicas Avançadas](https://github.com/RailanDeivid/Python_Pandas_Tecnicas_avancadas) 

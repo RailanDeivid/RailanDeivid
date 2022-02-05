@@ -11,7 +11,7 @@
 - [Analisando os Dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify)
 
 ## **Portfólio Dashboards**
-- [Dashboard Spotify](https://github.com/RailanDeivid/Dash_Spotify.git)
+- [Portfólio Business Intelligence](https://bit.ly/RailanDeividPortfolio)
 
 ## **Tutoriais**
 - [Python Pandas: Técnicas Avançadas](https://github.com/RailanDeivid/Python_Pandas_Tecnicas_avancadas) 

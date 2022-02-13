@@ -10,7 +10,7 @@
 - [Analisando os Dados de Reclamações do Consumidor Brasileiro](https://github.com/RailanDeivid/EDA_dados_consumidor.git)
 - [Analisando os Dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify)
 
-## **Portfólio Dashboards**
+## **Portfólio Business Intelligence**
 - [Portfólio Business Intelligence](https://bit.ly/RailanDeividPortfolio)
 
 ## **Tutoriais**

@@ -6,7 +6,7 @@
 
 - [ML - Credit Scoring (Regressão Logística)](https://github.com/RailanDeivid/Machine_Learning_Credit_Scoring.git)
 - [Regressão Linear - ECommerce](https://github.com/RailanDeivid/Regressao_linear_Projeto_Ecomerce.git)
-- [Prevendo a Renda de Estudantes Usando Machine Learning](https://github.com/RailanDeivid/Prevendo_renda_estudantes_Machine-Learning_KNN.git)
+- [Prevendo a renda de estudantes usando o algoritmo KNN (K-Nearest Neighbors)](https://github.com/RailanDeivid/Prevendo_renda_estudantes_Machine-Learning_KNN.git)
 - [EDA e Dataviz E-Commerce Brasileiro (Olist)](https://github.com/RailanDeivid/EDA_ecommerce_olist_brazil.git)
 - [Previsões de série temporal: COVID-19](https://github.com/RailanDeivid/Previsoes_serie_temporal_COVID-19.git)
 - [Mapa de Roubo de Carros no Estado de SP](https://github.com/RailanDeivid/Map_Roubo_de_Carro_SP.git)

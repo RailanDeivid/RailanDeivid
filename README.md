@@ -4,7 +4,7 @@
 
 ## **Portfólio Data Science**
 
-- [ML - Credit Scoring (Regressão Linear)](https://github.com/RailanDeivid/Machine_Learning_Credit_Scoring.git)
+- [ML - Credit Scoring (Regressão Logística)](https://github.com/RailanDeivid/Machine_Learning_Credit_Scoring.git)
 - [Regressão Linear - ECommerce](https://github.com/RailanDeivid/Regressao_linear_Projeto_Ecomerce.git)
 - [Prevendo a Renda de Estudantes Usando Machine Learning](https://github.com/RailanDeivid/Prevendo_renda_estudantes_Machine-Learning_KNN.git)
 - [EDA e Dataviz E-Commerce Brasileiro (Olist)](https://github.com/RailanDeivid/EDA_ecommerce_olist_brazil.git)

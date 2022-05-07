@@ -17,6 +17,7 @@
 - [Portfólio Business Intelligence](https://bit.ly/RailanDeividPortfolio)
 
 ## **Tutoriais**
+- [Python Pandas: Principais funções](https://github.com/RailanDeivid/pandas_funcoes_basicas.git) 
 - [Python Pandas: Técnicas Avançadas](https://github.com/RailanDeivid/Python_Pandas_Tecnicas_avancadas) 
 - [Entendendo as funções Map() e Apply()](https://github.com/RailanDeivid/entendendo_as_funcoes_map_e_Apply) 
 - [Seleções em Data Frames Pandas](https://github.com/RailanDeivid/Selecoes-em-DataFrames-pandas) 

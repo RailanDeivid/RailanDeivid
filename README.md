@@ -4,6 +4,8 @@
 
 ## **Portfólio Data Science**
 
+
+- [Análise exploratória Youtube API](https://github.com/RailanDeivid/youtube_api_analysis.git)
 - [ML - Credit Scoring (Regressão Logística)](https://github.com/RailanDeivid/Machine_Learning_Credit_Scoring.git)
 - [Regressão Linear - ECommerce](https://github.com/RailanDeivid/Regressao_linear_Projeto_Ecomerce.git)
 - [Prevendo a renda de estudantes usando o algoritmo KNN (K-Nearest Neighbors)](https://github.com/RailanDeivid/Prevendo_renda_estudantes_Machine-Learning_KNN.git)

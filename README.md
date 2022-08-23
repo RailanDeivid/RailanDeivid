@@ -33,9 +33,6 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://railandeivid.medium.com)
 
 ##
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RailanDeivid&theme=github_dark)](#)
-
-##
 ![Snake animation](https://github.com/RailanDeivid/RailanDeivid/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=railandeivid" alt="railandeivid" /> </p>

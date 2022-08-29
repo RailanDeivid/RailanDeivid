@@ -5,6 +5,8 @@
 ## **Portfólio Data Science**
 
 
+
+- [ML - Detecção de Fraude](https://github.com/RailanDeivid/ML_Deteccao_fraude.git)
 - [Análise exploratória Youtube API](https://github.com/RailanDeivid/youtube_api_analysis.git)
 - [ML - Credit Scoring (Regressão Logística)](https://github.com/RailanDeivid/Machine_Learning_Credit_Scoring.git)
 - [Regressão Linear - ECommerce](https://github.com/RailanDeivid/Regressao_linear_Projeto_Ecomerce.git)

@@ -2,7 +2,7 @@
 
 ### Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sempre a procura de mais conhecimento sobre a área.
 
-## **Portfólio Data Science**
+## **Data Science**
 
 
 

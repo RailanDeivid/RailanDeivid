@@ -5,6 +5,10 @@
 ## **Data Science**
 
 
+## Blog
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://railandeivid.medium.com)
+
+
 
 - [ML - Detecção de Fraude](https://github.com/RailanDeivid/ML_Deteccao_fraude.git)
 - [Análise exploratória Youtube API](https://github.com/RailanDeivid/youtube_api_analysis.git)
@@ -31,8 +35,6 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eae_railan/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.railandeivid@gmail.com)   
 
-## Blog
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://railandeivid.medium.com)
 
 ##
 ![Snake animation](https://github.com/RailanDeivid/RailanDeivid/blob/output/github-contribution-grid-snake.svg)

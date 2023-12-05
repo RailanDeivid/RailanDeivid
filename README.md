@@ -8,7 +8,7 @@
 ### Blog
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://railandeivid.medium.com)
 
-
+- [WebScraping Cotacoes do CEAGESP](https://github.com/RailanDeivid/WebScraping_Cotacoes_CEAGESP.git) 
 - [ML - Detecção de Fraude](https://github.com/RailanDeivid/ML_Deteccao_fraude.git)
 - [Análise exploratória Youtube API](https://github.com/RailanDeivid/youtube_api_analysis.git)
 - [ML - Credit Scoring (Regressão Logística)](https://github.com/RailanDeivid/Machine_Learning_Credit_Scoring.git)

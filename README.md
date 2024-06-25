@@ -7,7 +7,7 @@
 
 ### Blog
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://railandeivid.medium.com)
-- [WebScraping_Anuncios _de_Veiculos_MercadoLivre_e_Predicao_de_Valores_de_Vendas](https://github.com/RailanDeivid/MercadoLivre_Scraper_and_CarPricePredictor.git) 
+- [WebScraping_MercadoLivre_e_Predicao_Vendas_Veiculos_](https://github.com/RailanDeivid/MercadoLivre_Scraper_and_CarPricePredictor.git) 
 - [WebScraping Cotacoes do CEAGESP](https://github.com/RailanDeivid/WebScraping_Cotacoes_CEAGESP.git) 
 - [ML - Detecção de Fraude](https://github.com/RailanDeivid/ML_Deteccao_fraude.git)
 - [Análise exploratória Youtube API](https://github.com/RailanDeivid/youtube_api_analysis.git)

@@ -27,7 +27,8 @@
 - [Python Pandas: Principais funções](https://github.com/RailanDeivid/pandas_funcoes_basicas.git) 
 - [Python Pandas: Técnicas Avançadas](https://github.com/RailanDeivid/Python_Pandas_Tecnicas_avancadas) 
 - [Entendendo as funções Map() e Apply()](https://github.com/RailanDeivid/entendendo_as_funcoes_map_e_Apply) 
-- [Seleções em Data Frames Pandas](https://github.com/RailanDeivid/Selecoes-em-DataFrames-pandas) 
+- [Seleções em Data Frames Pandas](https://github.com/RailanDeivid/Selecoes-em-DataFrames-pandas)
+
 
 ## Contate-Me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railandeivid/)
@@ -38,5 +39,16 @@
 ##
 ![Snake animation](https://github.com/RailanDeivid/RailanDeivid/blob/output/github-contribution-grid-snake.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=railandeivid" alt="railandeivid" /> </p>
+
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=railandeivid"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 

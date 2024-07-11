@@ -2,11 +2,11 @@
 
 ### Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sempre a procura de mais conhecimento sobre a área.
 
-## **Data Science**
-
-
 ### Blog
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://railandeivid.medium.com)
+
+## **Principais Analises**
+
 - [Dados de Furtos e Roubos de Veículos em Guarulhos-SP: Análise e Dashboard no Streamlit](https://github.com/RailanDeivid/Analise_roubos_e_furtos_veiculos_SP.git)
 - [WebScraping_MercadoLivre_e_Predicao_Vendas_Veiculos_](https://github.com/RailanDeivid/MercadoLivre_Scraper_and_CarPricePredictor.git) 
 - [WebScraping Cotacoes do CEAGESP](https://github.com/RailanDeivid/WebScraping_Cotacoes_CEAGESP.git) 

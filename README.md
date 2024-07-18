@@ -21,8 +21,6 @@
 - [Analisando os Dados de Reclamações do Consumidor Brasileiro](https://github.com/RailanDeivid/EDA_dados_consumidor.git)
 - [Analisando os Dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify)
 
-## **Portfólio Business Intelligence**
-- [Portfólio Business Intelligence](https://app.powerbi.com/view?r=eyJrIjoiYzY1ZTkxYTItMjk2NS00ODk1LTk3MzctOGFjMmFkMDViYmExIiwidCI6ImI0MjE1NzJlLWM1NTMtNDJlZC04ZjgyLWYwZDMzNTViMTk3YyJ9&pageName=ReportSection)
 
 ## **Tutoriais**
 - [Python Pandas: Principais funções](https://github.com/RailanDeivid/pandas_funcoes_basicas.git) 

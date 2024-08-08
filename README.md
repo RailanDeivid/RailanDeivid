@@ -1,6 +1,6 @@
 ### :round_pushpin: São paulo, Brasil
 
-### Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sempre a procura de mais conhecimento sobre a área.
+### Atualmente trabalhando como Analista de Dados Pleno.
 
 ### Blog
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://railandeivid.medium.com)

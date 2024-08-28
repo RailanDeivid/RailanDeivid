@@ -12,21 +12,21 @@
 
 <br>           
 
-|            **Principais Análises**                                                                                                                                 |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Dados de Furtos e Roubos de Veículos em Guarulhos-SP: Análise e Dashboard no Streamlit](https://github.com/RailanDeivid/Analise_roubos_e_furtos_veiculos_SP.git)  |
-| [WebScraping_MercadoLivre_e_Predicao_Vendas_Veiculos_](https://github.com/RailanDeivid/MercadoLivre_Scraper_and_CarPricePredictor.git)                             |
-| [WebScraping Cotacoes do CEAGESP](https://github.com/RailanDeivid/WebScraping_Cotacoes_CEAGESP.git)                                                                |
-| [ML - Detecção de Fraude](https://github.com/RailanDeivid/ML_Deteccao_fraude.git)                                                                                  |
-| [Análise exploratória Youtube API](https://github.com/RailanDeivid/youtube_api_analysis.git)                                                                       |
-| [ML - Credit Scoring (Regressão Logística)](https://github.com/RailanDeivid/Machine_Learning_Credit_Scoring.git)                                                   |
-| [Regressão Linear - ECommerce](https://github.com/RailanDeivid/Regressao_linear_Projeto_Ecomerce.git)                                                              |
-| [Prevendo a renda de estudantes usando o algoritmo KNN (K-Nearest Neighbors)](https://github.com/RailanDeivid/Prevendo_renda_estudantes_Machine-Learning_KNN.git)  |
-| [EDA e Dataviz E-Commerce Brasileiro (Olist)](https://github.com/RailanDeivid/EDA_ecommerce_olist_brazil.git)                                                      |
-| [Previsões de série temporal: COVID-19](https://github.com/RailanDeivid/Previsoes_serie_temporal_COVID-19.git)                                                     |
-| [Mapa de Roubo de Carros no Estado de SP](https://github.com/RailanDeivid/Map_Roubo_de_Carro_SP.git)                                                               |
-| [Analisando os Dados de Reclamações do Consumidor Brasileiro](https://github.com/RailanDeivid/EDA_dados_consumidor.git)                                            |
-| [Analisando os Dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify)                                                                    |
+|            **Principais Análises**                                                                                                                                 |                                                          **Aplicações Web**                                     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| [Dados de Furtos e Roubos de Veículos em Guarulhos-SP: Análise e Dashboard no Streamlit](https://github.com/RailanDeivid/Analise_roubos_e_furtos_veiculos_SP.git)  |[App para juntar e separar arquivos em CSV e XLSX.](https://github.com/RailanDeivid/Data_Merge_And_Split_App.git)|
+| [WebScraping_MercadoLivre_e_Predicao_Vendas_Veiculos_](https://github.com/RailanDeivid/MercadoLivre_Scraper_and_CarPricePredictor.git)                             |[App para envio de e-mails em massa.](https://github.com/RailanDeivid/email_sending_app.git)                     |
+| [WebScraping Cotacoes do CEAGESP](https://github.com/RailanDeivid/WebScraping_Cotacoes_CEAGESP.git)                                                                |                                                                  
+| [ML - Detecção de Fraude](https://github.com/RailanDeivid/ML_Deteccao_fraude.git)                                                                                  |                                                                  
+| [Análise exploratória Youtube API](https://github.com/RailanDeivid/youtube_api_analysis.git)                                                                       |                                                                  
+| [ML - Credit Scoring (Regressão Logística)](https://github.com/RailanDeivid/Machine_Learning_Credit_Scoring.git)                                                   |                                                                  
+| [Regressão Linear - ECommerce](https://github.com/RailanDeivid/Regressao_linear_Projeto_Ecomerce.git)                                                              |                                                                  
+| [Prevendo a renda de estudantes usando o algoritmo KNN (K-Nearest Neighbors)](https://github.com/RailanDeivid/Prevendo_renda_estudantes_Machine-Learning_KNN.git)  |                                                                  
+| [EDA e Dataviz E-Commerce Brasileiro (Olist)](https://github.com/RailanDeivid/EDA_ecommerce_olist_brazil.git)                                                      |                                                                  
+| [Previsões de série temporal: COVID-19](https://github.com/RailanDeivid/Previsoes_serie_temporal_COVID-19.git)                                                     |                                                                  
+| [Mapa de Roubo de Carros no Estado de SP](https://github.com/RailanDeivid/Map_Roubo_de_Carro_SP.git)                                                               |                                                                  
+| [Analisando os Dados de Reclamações do Consumidor Brasileiro](https://github.com/RailanDeivid/EDA_dados_consumidor.git)                                            |                                                                  
+| [Analisando os Dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify)                                                                    |                                                                  
 
 
 

@@ -35,6 +35,11 @@
 - [Seleções em Data Frames Pandas](https://github.com/RailanDeivid/Selecoes-em-DataFrames-pandas)
 
 
+## **Portfólio BI**
+- [Acessar Portfólio](https://app.powerbi.com/view?r=eyJrIjoiYzY1ZTkxYTItMjk2NS00ODk1LTk3MzctOGFjMmFkMDViYmExIiwidCI6ImI0MjE1NzJlLWM1NTMtNDJlZC04ZjgyLWYwZDMzNTViMTk3YyJ9&pageName=ReportSection)
+
+
+
 ## Contate-Me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railandeivid/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.railandeivid@gmail.com)   

@@ -10,23 +10,16 @@
 ## Blog
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://railandeivid.medium.com)
 
-<br>           
+<br>
 
-|            **Principais Análises**                                                                                                                                 |                                                          **Aplicações Web**                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| [Extraindo informações de PDFs não estruturados com Python e Camelot](https://github.com/RailanDeivid/PDF_To_Excel.git)                                            |[App para envio de e-mails em massa.](https://github.com/RailanDeivid/email_sending_app.git)                     |                
-| [Dados de Furtos e Roubos de Veículos em Guarulhos-SP: Análise e Dashboard no Streamlit](https://github.com/RailanDeivid/Analise_roubos_e_furtos_veiculos_SP.git)  |[App para juntar e separar arquivos em CSV e XLSX.](https://github.com/RailanDeivid/Data_Merge_And_Split_App.git)|
-| [WebScraping_MercadoLivre_e_Predicao_Vendas_Veiculos_](https://github.com/RailanDeivid/MercadoLivre_Scraper_and_CarPricePredictor.git)                             |
-| [WebScraping Cotacoes do CEAGESP](https://github.com/RailanDeivid/WebScraping_Cotacoes_CEAGESP.git)                                                                |                                                                  
-| [ML - Detecção de Fraude](https://github.com/RailanDeivid/ML_Deteccao_fraude.git)                                                                                  |                                                                  
-| [Análise exploratória Youtube API](https://github.com/RailanDeivid/youtube_api_analysis.git)                                                                       |                                                                  
-| [ML - Credit Scoring (Regressão Logística)](https://github.com/RailanDeivid/Machine_Learning_Credit_Scoring.git)                                                   |                                                                                                                                                                                       
-| [Prevendo a renda de estudantes usando o algoritmo KNN (K-Nearest Neighbors)](https://github.com/RailanDeivid/Prevendo_renda_estudantes_Machine-Learning_KNN.git)  |                                                                  
-| [EDA e Dataviz E-Commerce Brasileiro (Olist)](https://github.com/RailanDeivid/EDA_ecommerce_olist_brazil.git)                                                      |                                                                  
-| [Previsões de série temporal: COVID-19](https://github.com/RailanDeivid/Previsoes_serie_temporal_COVID-19.git)                                                     |                                                                                                                                   
-| [Analisando os Dados de Reclamações do Consumidor Brasileiro](https://github.com/RailanDeivid/EDA_dados_consumidor.git)                                            |                                                                  
-| [Analisando os Dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify)                                                                    |                                                                  
-
+| **Análise & EDA** | **Machine Learning** | **Web Scraping** | **Aplicações Web** | **Agentes de IA** |
+|---|---|---|---|---|
+| [Analisando os Dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify) | [ML - Detecção de Fraude](https://github.com/RailanDeivid/ML_Deteccao_fraude.git) | [WebScraping Cotações do CEAGESP](https://github.com/RailanDeivid/WebScraping_Cotacoes_CEAGESP.git) | [App para envio de e-mails em massa](https://github.com/RailanDeivid/email_sending_app.git) | [Agente WhatsApp com LLM](https://github.com/RailanDeivid/whatsapp-agent.git) |
+| [EDA e Dataviz E-Commerce Brasileiro (Olist)](https://github.com/RailanDeivid/EDA_ecommerce_olist_brazil.git) | [ML - Credit Scoring (Regressão Logística)](https://github.com/RailanDeivid/Machine_Learning_Credit_Scoring.git) | [WebScraping MercadoLivre e Predição de Vendas](https://github.com/RailanDeivid/MercadoLivre_Scraper_and_CarPricePredictor.git) | [App para juntar e separar arquivos CSV e XLSX](https://github.com/RailanDeivid/Data_Merge_And_Split_App.git) | |
+| [Analisando os Dados de Reclamações do Consumidor Brasileiro](https://github.com/RailanDeivid/EDA_dados_consumidor.git) | [Prevendo a renda de estudantes com KNN](https://github.com/RailanDeivid/Prevendo_renda_estudantes_Machine-Learning_KNN.git) | | | |
+| [Dados de Furtos e Roubos de Veículos em Guarulhos-SP](https://github.com/RailanDeivid/Analise_roubos_e_furtos_veiculos_SP.git) | [Previsões de Série Temporal: COVID-19](https://github.com/RailanDeivid/Previsoes_serie_temporal_COVID-19.git) | | | |
+| [Análise exploratória Youtube API](https://github.com/RailanDeivid/youtube_api_analysis.git) | | | | |
+| [Extraindo informações de PDFs com Python e Camelot](https://github.com/RailanDeivid/PDF_To_Excel.git) | | | | |
 
 
 ## Contate-Me

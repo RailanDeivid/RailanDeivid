@@ -3,7 +3,6 @@
 
 ## Analista de Dados no [Melhor Plano](https://melhorplano.net/)
 
----
 
 ## 🧩 Principais Projetos
 | **Análise & EDA** | **Machine Learning** | **Web Scraping** | **Aplicações Web** | **Apps Streamlit** | **Agentes de IA** | **Automações** |

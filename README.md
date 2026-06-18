@@ -1,4 +1,6 @@
-# Railan Deivid
+# Railan Deivid 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railandeivid/)  [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://railandeivid.medium.com)
+
 ## Analista de Dados no [Melhor Plano](https://melhorplano.net/)
 
 ---
@@ -11,20 +13,3 @@
 | [YouTube API Analysis](https://github.com/RailanDeivid/youtube_api_analysis.git) | [Previsão de renda (KNN)](https://github.com/RailanDeivid/Prevendo_renda_estudantes_Machine-Learning_KNN.git) | | [Caixinha (Django)](https://github.com/RailanDeivid/caixinha-projeto-django) | | | |
 | | [Série temporal COVID-19](https://github.com/RailanDeivid/Previsoes_serie_temporal_COVID-19.git) | | | | | |
 ---
-
-
-## 📫 Contato
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railandeivid/)
-
-## ✍️ Blog
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://railandeivid.medium.com)
-
-## 🐍 Contribuições
-![Snake animation](https://github.com/RailanDeivid/RailanDeivid/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<div align="center">
-  <h3><b>👀 Visitas no perfil</b></h3>
-  <img src="https://komarev.com/ghpvc/?username=railandeivid" />
-</div>
